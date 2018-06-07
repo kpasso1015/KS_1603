@@ -1,5 +1,5 @@
 # United Photogram
-![photo](https://www.slideshare.net/secret/Tk8Y07l3A6CE9)([https://imgur.com/a/UzgUleu])
+[![photo](https://imgur.com/a/UzgUleu)]([https://www.slideshare.net/secret/Tk8Y07l3A6CE9])
 ## 製品概要
 ### Dimension Tech
 ### 背景（製品開発のきっかけ、課題等）
